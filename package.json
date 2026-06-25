@@ -1,0 +1,15 @@
+{
+  "name": "matatu-route-bot-20260625",
+  "version": "1.0.0",
+  "description": "Nairobi Matatu Route Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
